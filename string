@@ -1,0 +1,13 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+    word1 = ("Hello");
+    //hello has 5 characters
+    tempString1 = ("He");
+    tempString2 = ("ll");
+    tempString3 = ("o");
+    finalWord = tempString1 + tempString2 + tempString3;
+    system.out.println(finalWord);
+  }
+}
+
